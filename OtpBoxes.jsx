@@ -84,7 +84,9 @@ export default OtpBoxes
 const styles = StyleSheet.create({
     container: {
         flexDirection: "row",
-        margin: 10
+        margin: 10,
+        justifyContent: 'center'
+
     }
     ,
     inputStyles: {
